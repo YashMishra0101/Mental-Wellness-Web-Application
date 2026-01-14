@@ -1,5 +1,8 @@
 # 🧠 MindHeal – Mental Wellness Web App
 
+### Project Note
+This project is part of one of my freelance projects for a final-year B.Tech student and was built using Tailwind CSS, React.js and Firebase.
+
 <img src="src/assets/Screenshot (222).png">
 
 <img src="src/assets/Screenshot (225).png">
