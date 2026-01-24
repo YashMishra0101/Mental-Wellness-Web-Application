@@ -37,10 +37,6 @@ MindHeal is a modern mental wellness web application designed to provide emotion
 * Firebase – Used for authentication and backend data handling.
 
 
-## 🌐 Project Demo 
-
-To see a live demo of the project, please visit : https://mindheal-zeta.vercel.app/
-
 ## Contributing
 
 If you would like to contribute to this SafeSpace, please open an issue or submit a pull request. All contributions are welcome.
