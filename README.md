@@ -40,16 +40,3 @@ MindHeal is a modern mental wellness web application designed to provide emotion
 ## Contributing
 
 If you would like to contribute to this SafeSpace, please open an issue or submit a pull request. All contributions are welcome.
-
-
-## Contact 
-
-If you have any questions or suggestions, please feel free to contact me on:
-
-- LinkedIn: https://www.linkedin.com/in/yash-mishra-356280223
-- Twitter: https://twitter.com/YashRKMishra1
-
-
-
-
-
